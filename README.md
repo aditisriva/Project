@@ -1,2 +1,1 @@
-# Project
-it is a frontend part
+A simple landing page - first designed in figma and then coded in React. Hope you like it.
